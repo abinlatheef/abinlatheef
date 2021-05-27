@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abinlatheef
+- 👋 Hi, I’m Abin Latheef
 - 👀 I’m interested in C
 - 🌱 I’m currently learning C
 - 💞️ 
